@@ -40,7 +40,7 @@ Based on correlation analysis, the most impactful features were selected for mod
 
 ### Model Performance
 
-- **Linear Regression**: Achieved 87% accuracy.
+- **Linear  Ridge and Lasso Regression**: Achieved 87% accuracy.
 - **SVM, KNN, and Decision Tree**: Evaluated to compare performance with Linear Regression.
 
 [Model Performance]![image](https://github.com/user-attachments/assets/6654d417-71b5-44fd-8ab5-92b3ab7a08a4)
