@@ -43,7 +43,8 @@ Based on correlation analysis, the most impactful features were selected for mod
 - **Linear Regression**: Achieved 87% accuracy.
 - **SVM, KNN, and Decision Tree**: Evaluated to compare performance with Linear Regression.
 
-![Model Performance](link_to_your_image_here)
+[Model Performance](![image](https://github.com/user-attachments/assets/09e0c51a-37c4-4eee-8eb9-9d7166874d52)
+)
 
 ## Getting Started
 
